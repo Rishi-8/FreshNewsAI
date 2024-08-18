@@ -7,7 +7,7 @@ This is a web application which will be able to generate a simple image and a ne
 4) Give the ai model this information as prompt and ask it to generate a prompt for image generation and a news article.
 5) prompt the image generation model and use the image in news article.
 6) automate the posting process for news article.
-7) Make general fearures like users profile management.
+7) Make general features like users profile management.
 
 
 ### Some features for future
