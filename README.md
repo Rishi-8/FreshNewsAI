@@ -10,7 +10,7 @@ This is a web application which will be able to generate a simple image and a ne
 7) Make general fearures like users profile management.
 
 
-##### Some features for future
+### Some features for future
 1) recommendation system for user based on the articles they view.
 2) give some tags to users which they can choose and based on that they will be recommended news articles.
 
